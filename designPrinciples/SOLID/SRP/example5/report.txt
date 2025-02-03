@@ -1,0 +1,1 @@
+Report generated with data '{'sales': 100}'
